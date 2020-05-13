@@ -7,7 +7,7 @@ public class Login {
         System.out.println("AC: User should be able to login with valid credentials");
         
         //Slack users can login successfully on gitHub
-        //conflict test
+        //conflict test on intellij
         // brand new changes here
 
         //git changes coming
